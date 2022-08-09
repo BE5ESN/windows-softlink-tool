@@ -1,0 +1,8 @@
+D:\0_softlink\SoftLinkTool\SoftLinkTool\bin\Debug\SoftLinkTool.exe
+D:\0_softlink\SoftLinkTool\SoftLinkTool\bin\Debug\SoftLinkTool.pdb
+D:\0_softlink\SoftLinkTool\SoftLinkTool\obj\Debug\SoftLinkTool.softLink.resources
+D:\0_softlink\SoftLinkTool\SoftLinkTool\obj\Debug\SoftLinkTool.Properties.Resources.resources
+D:\0_softlink\SoftLinkTool\SoftLinkTool\obj\Debug\SoftLinkTool.csproj.GenerateResource.cache
+D:\0_softlink\SoftLinkTool\SoftLinkTool\obj\Debug\SoftLinkTool.csproj.CoreCompileInputs.cache
+D:\0_softlink\SoftLinkTool\SoftLinkTool\obj\Debug\SoftLinkTool.exe
+D:\0_softlink\SoftLinkTool\SoftLinkTool\obj\Debug\SoftLinkTool.pdb

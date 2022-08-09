@@ -1,0 +1,1 @@
+There is only one language in the code world, English. If you happen to use any other character language in your code, there will be unexpected problems, bugs. Using this tool will solve any problems caused by your wife cheating, husband wandering, car running out of gas, etc. due to other languages in the file path. Have a nice life and fuck off.
